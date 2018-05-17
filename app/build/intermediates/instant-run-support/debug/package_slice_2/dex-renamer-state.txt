@@ -1,0 +1,4 @@
+#Thu Apr 26 14:59:51 IST 2018
+base.0=C\:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tracking.xml.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\layout\\activity_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_device.xml.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_paired_devices.xml.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\prateek jain\\Desktop\\BluetoothTrack\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
